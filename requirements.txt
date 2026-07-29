@@ -1,0 +1,15 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+tensorflow
+xgboost
+pygad
+pyswarms
+bayesian-optimization
+shap
+joblib
